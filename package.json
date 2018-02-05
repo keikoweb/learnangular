@@ -1,0 +1,9 @@
+{
+  "name": "learnangular",
+  "version": "1.0.0",
+  "description": "This project is the repository for my Learn Angular course",
+  "scripts": {
+    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" "
+  },
+  "author": "Keiko Ueda",
+}
